@@ -48,7 +48,6 @@ void main(){
   print(a!=b); // Not equal
 
 /* ~~~~~~~~~~~~~~~~~~~~~~~~[ Type test Operators ]~~~~~~~~~~~~~~~~~~~~~~~~ */
-  print("Check if a is number: ${a is num}");
   print("Check if a is String: ${a is String}");
   print("Check if a is Not String: ${a is! String}");
 
