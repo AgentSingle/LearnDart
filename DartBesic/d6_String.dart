@@ -65,7 +65,7 @@ void main(){
   int nIsAnum = 15;
   print(nIsAnum.toString());
 
-  // [ toString() ]
+  // [ codeUnitAt() ]
   var nameVar = "This is a variable";
   print("Code unit of index 0 (T): ${nameVar.codeUnitAt(0)}");
   print("Code unit of index 1 (h): ${nameVar.codeUnitAt(1)}");
