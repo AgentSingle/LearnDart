@@ -28,3 +28,14 @@ Dart version =  3.3.1
 ```text
   List<dynamic>, List<int>, List<double>, List<String>, List<bool>
 ```
+
+
+
+<br>
+<a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-4d1_list_manipulation-md" target="_blank">
+4. Basic List Manipulation | understanding growable and not growable list 
+</a>
+
+```text
+  List.filled, List.generate
+```
