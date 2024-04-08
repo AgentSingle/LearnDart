@@ -1,7 +1,5 @@
 /*
-var, const, final, dynamic
 String, int, double, bool
-List<String>, List<int>, List<dynamic>
 */
 
 void main(){
