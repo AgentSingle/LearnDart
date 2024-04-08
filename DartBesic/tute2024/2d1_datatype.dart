@@ -8,7 +8,7 @@ void main(){
   /*
   [ STRING ]
   We Can change value of a 'String' using another 'String' as it is a variable
-  but we can't use another data type like int, bool, float etc
+  but we can't use another dataType like int, bool, double etc
   */
   String name = 'Agent Single';
   name = 'Supriya Singh';
@@ -20,7 +20,7 @@ void main(){
   /*
   [ INTEGER ]
   We Can change value of a 'int' using another 'int' as it's a variable
-  but we can't use another data type like int, bool, float etc
+  but we can't use another dataType like String, bool, double etc
   */
   int age = 27;
   age = 20;
@@ -33,7 +33,7 @@ void main(){
   [ DOUBLE ]
   We Can change value of a 'double' using another 'double' and 'int',
   hre integer number take as double and no change in data type (double)
-  but we can't use another data type like bool, float etc
+  but we can't use another dataType like String, int, double etc
   */
   double temperature = 40.1;
   temperature = 40;
@@ -41,4 +41,15 @@ void main(){
   // temperature = false;
   print(temperature);
   print(temperature.runtimeType);
+
+  /*
+  [ BOOLEAN ]
+  We Can change value of a 'boolean' using another 'boolean',
+  but we can't use another dataType like String, int, double, etc
+  */
+  bool isActive = true;
+  isActive = false;
+  // isActive = 10;
+  // isActive = 10.5;
+  // isActive = 'Supriay Singh';
 }
