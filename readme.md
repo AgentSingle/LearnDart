@@ -52,7 +52,7 @@ Dart version =  3.3.1
 
 <br>
 <a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-6d1_list_advance-md" target="_blank">
-6. Basic Function In Dart
+6. Some Advance Concept of Dart List
 </a>
 
 ```text
