@@ -3,7 +3,7 @@
 Dart version =  3.3.1
 ````
 
-<hr>
+### <hr>
 <a href="https://github.com/AgentSingle/LearnDart/blob/master/DartBesic/tute2024/1d1_datatype.dart" target="_blank">
 1. ( Basic Data type )
 </a>
