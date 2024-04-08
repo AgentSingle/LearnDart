@@ -12,7 +12,7 @@ Dart version =  3.3.1
   var, const, final
 ```
 
-<hr>
+<br>
 <a href="https://github.com/AgentSingle/LearnDart/blob/master/DartBesic/tute2024/2d1_datatype.dart" target="_blank">
 2. ( DateType which are modifiable using particular dataType )
 </a>
@@ -20,9 +20,7 @@ Dart version =  3.3.1
 ```text
   String, int, double, bool
 ```
-
-
-<hr>
+<br>
 <a href="https://github.com/AgentSingle/LearnDart/blob/master/DartBesic/tute2024/3d1_advance_datatype.dart" target="_blank">
 3. ( Advance dataType [ list ] )
 </a>
