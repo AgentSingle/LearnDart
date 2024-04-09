@@ -9,7 +9,7 @@ Dart version =  3.3.1
 </a>
 
 ```text
-  var, const, final
+var, const, final
 ```
 
 <br>
@@ -18,7 +18,7 @@ Dart version =  3.3.1
 </a>
 
 ```text
-  String, int, double, bool
+String, int, double, bool
 ```
 <br>
 <a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-3d1_advance_datatype-md" target="_blank">
@@ -26,7 +26,7 @@ Dart version =  3.3.1
 </a>
 
 ```text
-  List<dynamic>, List<int>, List<double>, List<String>, List<bool>
+List<dynamic>, List<int>, List<double>, List<String>, List<bool>
 ```
 
 <br>
@@ -35,7 +35,7 @@ Dart version =  3.3.1
 </a>
 
 ```text
-  List.filled, List.generate
+List.filled, List.generate
 ```
 
 <br>
@@ -56,5 +56,42 @@ Dart version =  3.3.1
 </a>
 
 ```text
-  indexOf(), add(), remove(), addAll()
+indexOf(), add(), remove(), addAll()
+```
+
+<br>
+<a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-7d2_cf_if-else-md" target="_blank">
+7. Control Flow (conditional statement)
+</a>
+
+```text
+if, else if, else
+```
+
+<br>
+<a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-8d2_cf_switch_case-md" target="_blank">
+8. Control Flow (conditional statement)
+</a>
+
+```text
+switch case
+```
+
+<br>
+<a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-9d2_cf_forloop-md" target="_blank">
+9. Control Flow (for loop with conditional statement)
+</a>
+
+```text
+for, where
+```
+
+
+<br>
+<a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-10d2_inputs-md" target="_blank">
+10. Control Flow (for loop with conditional statement)
+</a>
+
+```text
+stdin.readLineSync(), int.parse(stdin.readLineSync()), double.parse(stdin.readLineSync())
 ```
