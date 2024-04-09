@@ -89,7 +89,7 @@ for, where
 
 <br>
 <a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-10d2_inputs-md" target="_blank">
-10. Control Flow (for loop with conditional statement)
+10. Dart inputs
 </a>
 
 ```text
