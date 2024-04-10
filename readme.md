@@ -95,3 +95,51 @@ for, where
 ```text
 stdin.readLineSync(), int.parse(stdin.readLineSync()), double.parse(stdin.readLineSync())
 ```
+
+<br>
+<a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-11d3_set-md" target="_blank">
+11. Set Over View
+</a>
+
+```text
+var setItem = {1, 2, 3};
+```
+
+<br>
+<a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-12d3_map-md" target="_blank">
+12. map in dart
+</a>
+
+```text
+Map<int, string> mapItem = {1:'red', 2:'green', 3:'blue'};
+```
+
+
+<br>
+<a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-13d3_class_overview-md" target="_blank">
+13. class over view (without arguments)
+</a>
+
+```text
+class, yourClass();
+```
+
+<br>
+<a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-14d3_class_details-md" target="_blank">
+14. class with arguments
+</a>
+
+```text
+class, yourClass(this.valOne, this.valTwo);
+```
+
+<br>
+<a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-15d3_class_inheritance-md" target="_blank">
+15. class Inheritance
+</a>
+
+```text
+cll NewClass extends predefineClass{
+    NewClass(newArgument, super:predefinedArguments, ...);
+}
+```
