@@ -143,3 +143,36 @@ cll NewClass extends predefineClass{
     NewClass(newArgument, super:predefinedArguments, ...);
 }
 ```
+
+<br>
+<a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-16d4_class_method_overriding-md" target="_blank">
+16. method overriding
+</a>
+
+```text
+@override
+```
+
+
+<br>
+<a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-17d4_class_generics-md" target="_blank">
+17. Generics In dart class
+</a>
+
+```text
+var veg = Collection<define_class>(
+      'define_class',
+      [data1, data2, data3, ...]
+  );
+```
+
+<br>
+<a href="https://gist.github.com/AgentSingle/0d918f8f054bbdbf237ea457c046dc08#file-18d4_async_function-md" target="_blank">
+18. async & await
+</a>
+
+```text
+void main() async{
+    final data = await someCallBackFunction();
+}
+```
